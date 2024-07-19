@@ -1,7 +1,10 @@
 # Tarea 1
-**Universidad San Carlos de Guatemala**
+**Universidad San Carlos de Guatemala** 
+
 **Facultad de Ingeniería**
+
 **Sistemas Operativos 1, Sección A**
+
 **Nombre:** Josué Javier Aguilar López  
 **Carnet:** 201909035 
 
