@@ -2,18 +2,18 @@
 
 1. El primer paso es crear el script
 
-![Script](img/Script.png)
+<img src="img/Script.png" alt="Script" width="500"/>
 
 2. Se le dan permisos de ejecución
 
-![Permisos](img/Permisos.png)
+<img src="img/Permisos.png" alt="Permisos" width="500"/>
 
 3. Nos ubicamos en la ruta /etc/systemd/system y creamos nuestro archivo de servicio. El nombre puede ser cualquiera
 mientras la extensión sea ".service".
 
-![CrearSystem](img/CrearSystem.png)
+<img src="img/CrearSystem.png" alt="CrearSystem" width="500"/>
 
-![System](img/System.png)
+<img src="img/System.png" alt="System" width="500"/>
 
 4. Se tienen que recargar los daemons. El comando para ello es:
 
